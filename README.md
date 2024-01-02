@@ -15,3 +15,4 @@ v12
 ape
 boss
 wave
+gm gm
